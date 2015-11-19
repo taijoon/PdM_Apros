@@ -6,3 +6,6 @@
   - baudrate 115200
   - rfchannel 0x1a
   - rfgroup 0x1a
+
+running.png
+  - packet data info
